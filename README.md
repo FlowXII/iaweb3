@@ -6,3 +6,5 @@ python src/upload_docs.py (vous pouvez modifier les documents dans le fichier et
 
 # 2. Lancer le chatbot
 python src/main.py
+
+Ceci est surtout une POC et ne contient pas vraiment de données intéressantes ; Mais l'architecture est là.
